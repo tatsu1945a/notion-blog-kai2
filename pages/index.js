@@ -10,7 +10,7 @@ export default function Home({ posts }) {
   return (
     <div>
       <Head>
-        <title>Notionを用いたブログ2</title>
+        <title>Notionを用いたブログ22</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
